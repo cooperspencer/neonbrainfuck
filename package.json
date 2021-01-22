@@ -1,0 +1,22 @@
+{
+    "name": "neonbrainfuck",
+    "displayName": "neonbrainfuck",
+    "description": "a bright colored theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "publisher": "buddyspencer",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "neonbrainfuck",
+                "uiTheme": "vs-dark",
+                "path": "./themes/neonbrainfuck-color-theme.json"
+            }
+        ]
+    }
+}
